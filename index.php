@@ -145,7 +145,7 @@ $a_file = array();
 
 <table width="100%" border="0" cellspacing="5" cellpadding="5">
   <tr>
-    <td><a href="a.php">[a]キラキラ(<? print $s_num["a"]; ?>)</a></td>
+    <td><a href="aa.php">[a]キラキラ(<? print $s_num["a"]; ?>)</a></td>
     <td><a href="b.php">[b]オブジェクト移動(<? print $s_num["b"]; ?>)</a></td>
     <td><a href="c.php">[c]登場(カード)(<? print $s_num["c"]; ?>)</a></td>
   </tr>
